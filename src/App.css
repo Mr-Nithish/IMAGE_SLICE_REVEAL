@@ -1,0 +1,46 @@
+.image{
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100px;
+}
+
+.img-1{
+    background-image: url('./assets/img1.jpg');
+}
+
+.img-2{
+    background-image: url('./assets/img2.png');
+}
+
+.img-3{
+    background-image: url('./assets/img3.png');
+}
+
+.img-4{
+    background-image: url('./assets/img4.png');
+}
+
+.img-5{
+    background-image: url('./assets/img5.png');
+}
+
+.piece1{
+    background-position: 0 0px;
+}
+
+.piece2{
+    background-position: 0 -100px;
+}
+
+.piece3{
+    background-position: 0 -200px;
+}
+
+.piece4{
+    background-position: 0 -300px;
+}
+
+.piece5{
+    background-position: 0 -400px;
+}
